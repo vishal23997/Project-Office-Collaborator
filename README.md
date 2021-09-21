@@ -11,7 +11,7 @@ Front-end : HTML/CSS
 
 ![1](https://user-images.githubusercontent.com/75683493/134159785-6e2ff95b-3959-4fc9-9687-0eafe186eb99.png)
 
-<h1>2. Admin Dashboard with all the employee list (If admin login)</h1>
+<h1>2. Admin Dashboard with all the employee list (When admin login)</h1>
 
 ![2](https://user-images.githubusercontent.com/75683493/134160095-8eddc30f-2f8f-4fe4-86cb-0c29ad0d407a.png)
 
