@@ -1,6 +1,6 @@
 # Project-Office-Collaborator
 
-Technology used/n
+Technology used<br>
 Front-end : HTML/CSS
 Back-end : php
 Database : mySql
